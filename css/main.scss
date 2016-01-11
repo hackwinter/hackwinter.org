@@ -8,15 +8,18 @@
 // Our variables
 $base-font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$base-font-weight: 400;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$heading-font-family: Cinzel, "Book Antiqua", "Garamond", "Times New Roman", serif;
+$heading-font-weight: 700;
+
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #F6F6F6;
+$background-color: #505050;
+$brand-color:      #F0F0F0;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

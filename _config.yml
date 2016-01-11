@@ -12,8 +12,10 @@ description: > # this means to ignore newlines until "baseurl:"
   #HackWinter is a winter-focused app challenge, aimed at developing solutions that can help our communities deal with the challenges of living with freezing cold, darkness, and ice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hackwinter.github.io" # the base hostname & protocol for your site
-twitter_username: codeforboston
+twitter_username: hashtag/hackwinter
 github_username:  hackwinter
+collections:
+- projects
 
 # Build settings
 markdown: kramdown
